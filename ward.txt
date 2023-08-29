@@ -1,0 +1,3 @@
+401|covid|slots $
+402|dengue|slots $
+403|maleriya|666 $

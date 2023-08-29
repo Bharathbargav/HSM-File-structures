@@ -1,0 +1,2 @@
+*01|malik|66|bang $
+1*1|malik|66|bang $

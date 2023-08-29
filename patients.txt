@@ -1,0 +1,4 @@
+01|bobby|22|bodypain|bangalore$
+11|vasu|12|corana|bangalore$
+12|alexa|23|legpain|mangalore$
+13|veena|45|feaver|dubai$
